@@ -1,0 +1,7 @@
+-lib hscript
+
+-cp src
+
+-main Main
+
+-hl build.hl
